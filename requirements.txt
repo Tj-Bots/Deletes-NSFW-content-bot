@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+tensorflow-cpu
+tensorflow-hub
+tf-keras
+pillow
+numpy
